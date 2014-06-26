@@ -6,7 +6,6 @@
     <string name="title_activity_main">CardsUI</string>
     <string name="title">Title</string>
     <string name="desc">Description</string>
-	<string name="overflow">Menu Overflow</string>
 	<string name="color_stripe">Color Stripe</string>
 	<string name="enter_color">Enter the hex value of a color</string>
 	<string name="new_card">Create a New Card</string>
